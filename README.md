@@ -23,7 +23,7 @@ Estou construindo meu portfólio com projetos simples, mas que mostram minha evo
 
 ---
 
-## ## 🧠 O que estou aprendendo
+## 🧠 O que estou aprendendo
 
 - ☕ Programação Orientada a Objetos com Java
 - 🧩 Desenvolvimento de soluções flexíveis, extensíveis e testáveis
